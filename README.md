@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>💫 About Me</h1>
+  <h1>About Me</h1>
   <p>
     Passionate and driven computer science undergraduate with a strong desire to contribute to the ever-evolving world of technology. Currently pursuing a Bachelor's degree in Computer Science, I am eager to apply my theoretical knowledge and develop practical skills in a professional setting.
   </p>
 </div>
 
 <div align="center">
-  <h1>💻 Tech Stack</h1>
+  <h1>Tech Stack</h1>
   
   <!-- Languages -->
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,9 +64,9 @@
 </div>
 
 <div align="center">
-  <h1>📊 GitHub Stats</h1>
+  <h1>GitHub Stats</h1>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenSul&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenSul)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenSul&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
