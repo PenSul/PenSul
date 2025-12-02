@@ -1,11 +1,4 @@
 <div align="center">
-  <h1>About Me</h1>
-  <p>
-    Passionate and driven computer science undergraduate with a strong desire to contribute to the ever-evolving world of technology. Currently pursuing a Bachelor's degree in Computer Science, I am eager to apply my theoretical knowledge and develop practical skills in a professional setting.
-  </p>
-</div>
-
-<div align="center">
   <h1>Tech Stack</h1>
   
   <!-- Languages -->
