@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours at minute 0
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,20 +10,19 @@ permissions:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Snake Animation
       - name: Generate snake SVG
         uses: Platane/snk@master
-        id: snake-gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # optional but helps with rate limits
         with:
           github_user_name: PenSul
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # If svg_out_path is not supported in your version, replace the two lines above with:
+          # or:
           # outputs: |
           #   dist/github-contribution-grid-snake.svg
 
