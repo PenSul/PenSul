@@ -61,4 +61,4 @@
 
 </div>
 
-[Snake animation](https://raw.githubusercontent.com/PenSul/PenSul/output/github-contribution-grid-snake.svg)
+![Snake animation](https://pensul.github.io/PenSul/github-contribution-grid-snake.svg)
