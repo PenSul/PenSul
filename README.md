@@ -24,7 +24,6 @@
   <h3>Back-end</h3>
 
   ![NodeJS](https://pfst.cf2.poecdn.net/base/image/5cef45885ec0a611e55512d78e36fdfb093121c4a2fc1fee97e125f4d432bbd3?pmaid=577736639)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
   ![Django](https://pfst.cf2.poecdn.net/base/image/50ca82afc1b3291b7b70a5991eaf4a16bcaf72f84bd0c6d5f4fc49353c19de6b?pmaid=577736647)
 
   <!-- Database -->
