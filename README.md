@@ -60,3 +60,5 @@
   ![Godot Engine](https://img.shields.io/badge/Godot-FFFFFF?style=flat&logo=godot-engine&logoColor=black)
 
 </div>
+
+![Snake animation](https://github.com/PenSul/PenSul/blob/output/github-contribution-grid-snake.svg)
