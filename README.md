@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>What I Use</h1>
+  <h1>What I Use:</h1>
 
   <h3>Languages</h3>
 
